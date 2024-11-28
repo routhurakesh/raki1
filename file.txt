@@ -1,3 +1,6 @@
 name:rakesh
 college:vgs
 city:knr
+name:ramesh
+college:vgs
+city:knr
